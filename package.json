@@ -1,0 +1,16 @@
+{
+  "name": "ezproxy",
+  "title": "ezproxy loader",
+  "id": "jid1-dy1lhHvXaNcbvQ",
+  "description": "One click button for opening a page through an ezproxy",
+  "author": "Leighton Turner",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+        "name": "ezproxy.url",
+        "title": "URL",
+        "description": "Ezproxy URL",
+        "type": "string",
+        "value": ""
+  }]
+}
