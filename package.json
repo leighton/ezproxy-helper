@@ -1,16 +1,21 @@
 {
-  "name": "ezproxy",
-  "title": "ezproxy loader",
+  
+  "name": "ezproxy-helper",
+  "title": "EZproxy Helper",
   "id": "jid1-dy1lhHvXaNcbvQ",
-  "description": "One click button for opening a page through an ezproxy",
-  "author": "Leighton Turner",
+  "description": "One click button for opening paywalled items through an EZproxy.",
+  "author": "https://github.com/leighton",
+  "homepage" : "https://github.com/leighton/ezproxy_helper_firefox",
   "license": "MPL 2.0",
-  "version": "0.1",
+  "version": "1.0.0",
+  "icon" : "data/study-32.png",
+  "icon64" : "data/study-64.png",
   "preferences": [{
         "name": "ezproxy.url",
         "title": "URL",
-        "description": "Ezproxy URL",
+        "description": "EZproxy URL",
         "type": "string",
         "value": ""
   }]
+
 }
