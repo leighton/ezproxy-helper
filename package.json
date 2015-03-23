@@ -7,9 +7,9 @@
   "author": "https://github.com/leighton",
   "homepage" : "https://leighton.github.io/ezproxy-helper",
   "license": "MPL 2.0",
-  "version": "1.0.1",
-  "icon" : "data/study-32.png",
-  "icon64" : "data/study-64.png",
+  "version": "1.0.2",
+  "icon" : "data/icons/study-32.png",
+  "icon64" : "data/icons/study-64.png",
   "preferences": [{
         "name": "ezproxy.url",
         "title": "URL",
