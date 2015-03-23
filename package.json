@@ -1,5 +1,5 @@
 {
-  
+
   "name": "ezproxy-helper",
   "title": "EZproxy Helper",
   "id": "jid1-dy1lhHvXaNcbvQ",
@@ -16,13 +16,12 @@
         "description": "EZproxy URL",
         "type": "string",
         "value": ""
-  },
-		  {
-        "name": "ezproxy.newtab",
-        "title": "New Tab",
-        "description": "Open new tab for EZproxy?",
-        "type": "bool",
-        "value": false
+  },{
+    "name": "ezproxy.newtab",
+    "title": "New Tab",
+    "description": "Open new tab for EZproxy?",
+    "type": "bool",
+    "value": false
   }]
 
 }
